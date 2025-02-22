@@ -1,4 +1,4 @@
-# React Native UI Test Automation
+# Homestore Automated UI Tests
 
 This repository contains **automated UI tests** written in **Java**, using **Selenium WebDriver** and **JUnit 5** for testing the [**Homestore**](https://themes.woocommerce.com/homestore/) e-commerce web application.
 
